@@ -26,6 +26,6 @@
 		"vite-plugin-devtools-json": "^0.2.0"
 	},
 	"dependencies": {
-		"liquidjs": "^10.21.1"
+		"liquidjs": "^10.25.0"
 	}
 }
